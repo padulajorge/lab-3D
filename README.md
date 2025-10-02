@@ -1,16 +1,32 @@
-# 🖥️ Sistema Integral de Pedidos (SIGPe) - Laboratorio 3D Médico
+# 🖥️ Sistema Integral de Gestión de Pedidos (SIGPe)  
+**Laboratorio 3D Médico**
 
 ## 📌 Descripción del proyecto
-El **Sistema Integral de Pedidos (SIGPe)** es una plataforma para la gestión de pedidos de impresión 3D en un laboratorio universitario orientado a la medicina.  
-El sistema abarcará todo el proceso: desde la toma de pedidos hasta la entrega y seguimiento de prótesis, férulas y órtesis destinadas al hospital universitario.
+El **Sistema Integral de Gestión de Pedidos (SIGPe)** es una plataforma diseñada para gestionar pedidos de impresión 3D en un laboratorio universitario orientado a la medicina.  
+
+El sistema cubrirá todo el proceso:  
+- Registro y toma de pedidos  
+- Producción de piezas (prótesis, férulas y órtesis)  
+- Entrega y seguimiento para el hospital universitario  
 
 ## 👥 Integrantes del equipo
-- Nombre 1 — Rol (ej. Scrum Master / Desarrollador Back-end)
-- Nombre 2 — Rol (ej. Product Owner)
-- Nombre 3 — Rol (ej. Desarrollador Front-end)
-- Nombre 4 — Rol (ej. Diseñador UX/UI)
+- **Agustín** — Product Owner / Scrum Manager  
+- **Mariano** — Scrum Master / Desarrollador Front-End
+- **Mateo** — Desarrollador Front-End 
+- **Ulices** — Scrum Manager / Desarrollador Front-End  
+- **Jorge** — Desarrollador Back-End  
+- **Lucas** — Desarrollador Back-End   
+- **Francisco** — Desarrollador Back-End  
+- **Pablo** — UX / QA / Testing  
+
+## ⚙️ Tecnologías a implementar
+- **Back-End:** Python (en evaluación: Node.js)  
+- **Front-End:** React.js, Bootstrap  
 
 ## 🌐 Sitios de referencia
-- [Scrum Guide (guía oficial de Scrum)](https://scrumguides.org/)
-- [Documentación MERN Stack](https://www.mongodb.com/mern-stack)
-- [Referencia en impresión 3D médica](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6473373/)
+- [Scrum Guide (guía oficial de Scrum)](https://scrumguides.org/)  
+- [Tecno Lanema](https://www.tecnolanema.pt/)  
+  - Referencia para la página de inicio y uso de imágenes  
+- [RGBESTUDIO](https://rgbestudio.com.ar/)  
+  - Ideas para mostrar servicios, información del laboratorio y tipos de materiales con ventajas y desventajas  
+- [ClickUp](https://clickup.com)  
